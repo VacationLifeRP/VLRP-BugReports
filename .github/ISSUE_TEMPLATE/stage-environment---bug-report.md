@@ -1,8 +1,8 @@
 ---
-name: Stage Environment - Bug report
+name: VLRP - Bug report
 about: Create a report to help us improve
-title: "[STAGE] Bug Report - "
-labels: bug, STAGE
+title: "[VLRP] Bug Report - "
+labels: bug, PROD
 assignees: ''
 
 ---
@@ -28,3 +28,6 @@ Please describe the in-game feature.
 
 **Additional context**
 Add any other context about the problem here.
+
+**Discord Username**
+Enter your Discord Username for credit
