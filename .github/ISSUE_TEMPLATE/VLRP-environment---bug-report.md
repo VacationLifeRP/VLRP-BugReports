@@ -1,8 +1,8 @@
 ---
-name: VLRP - Bug report
+name: VLRP Bug report
 about: Create a report to help us improve
-title: "[VLRP] Bug Report - "
-labels: bug, PROD
+title: "[VLRP] Bug Report"
+labels: bug, VLRP
 assignees: ''
 
 ---
